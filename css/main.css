@@ -140,6 +140,36 @@ h1{
     margin-left: 100px;
   }
 
+.nametest{
+margin-left: 100px;
+width: 830px;
+
+}
+.nametest div{
+  display: inline-block;
+}
+
+.nametest p{
+  font-size: 15px;
+}
+
+.column-center h3{
+  text-align: center;
+  margin-left: 180px;
+
+}
+.column-left{ 
+  float: left; 
+}
+.column-right{ 
+  float: right;
+}
+.column-center{ 
+  display: inline-block; 
+}
+
+
+
 #aboutteam{
 height: 700px;
 
