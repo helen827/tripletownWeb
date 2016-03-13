@@ -52,7 +52,7 @@ body{
 
 
   .jumbotron {
-  background-image:url("image/front.png"); 
+  background-image:url("../image/front.png"); 
   height: 790px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -80,14 +80,13 @@ body{
   padding: 14px 10px;
   text-transform: uppercase;
   }
-  
-.speadsheet iframe{
-margin-left: 200px;
-width: 530px;
-height: 500px;
-} 
+ 
 
-
+iframe{
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 300px;
+}
 
 .bio{
   background-color: #f4f1ed;
